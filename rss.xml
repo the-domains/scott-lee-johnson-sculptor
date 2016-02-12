@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Scott Lee Johnson - Sculptor]]></title>
-        <description><![CDATA[Scott Lee Johnson - Sculptor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Works in Terra-cotta and Bronze]]></title>
+        <description><![CDATA[Works in Terra-cotta and Bronze]]></description>
+        <link>https://thegrid.ai/scott-lee-johnson-sculptor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 19:02:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 19:11:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-lee-johnson-sculptor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8daed9f-3bbd-4a5a-b576-b3ffe53b361f.JPG">]]></description>
+            <link>https://thegrid.ai/scott-lee-johnson-sculptor/18afc862-36ed-4ab1-886d-db659e7d16e4/index.html</link>
+            <guid isPermaLink="false">18afc862-36ed-4ab1-886d-db659e7d16e4</guid>
+            <pubDate>Fri, 12 Feb 2016 19:11:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Scott Lee Johnson was born in 1952 and raised in Connecticut, where he still lives.  He has been surrounded by the art world for most of his life.  His grandfather was Burt Johnson, a noted California sculptor, whose works still grace many public buildings and parks across the United States.  Sadly, his untimely death at the age of 37 cut short a very promising career.  Scott's father, Harvey W. Johnson, was a charter member of the "Cowboy Artists of America" for over 33 years.  He passed away in January of 2005.  Scott only discovered his talent for art about 20 years ago.  He has studied under Stanley Bleifeld, a former president of the "National Sculpture Society", and with Fritz White of the Cowboy Artists.        Scott's works have been displayed at Lever Brother's gallery and the Salmagundi Club in New York city and in many shows around the country.  His sculpture "Jesus and the Homeless Woman" won the Union Carbide award of First Place for sculpture at the 12th annual juried art exhibition and sale at the Richter Art Center.  It also received the Award for individual merit at the Spectrum '94 show, both in Connecticut.  "The Martyrdom of Stephen" won First Place for sculpture at the 19th Annual Richter show and at the Kent, Connecticut "Fall '97" show it took the "Best of Show" award.  One of his most recent pieces, "Revelations 12:7",  won  "Best of Show" at the 21st Annual Richter show.  While much of Scott's work is in private collections his latest commission was three sculptures of "St. Francis of Assisi" for the Franciscan friars of the St. Anthony of Padua Province.        Scott brings to his work a rather unique perspective; working on his own, he only sculpts pieces that have a Christian theme or are Biblical illustrations.  This specialty is a result of his 31 years as a member of a non-denominational prayer community in Danbury, Connecticut.  The focus of the group, "The Community of the Cross", is to seek the living Christ and allow him to love, heal, teach and guide them in today's world.  The purpose of the Community is to share what they have been taught and given, with those people God places in their paths each day.  Scott believes that his gift for sculpture is one of his avenues for reaching out and sharing this message.  He says of his work, "I believe God will imbue the sculpture with something of himself that will touch the heart of the viewer as it touched my heart while I worked on it."         Commissions do not have to be overtly Spiritual as long as they can't be perceived as offensive or statements that would contradict Scott's beliefs.</p>]]></description>
-            <link>undefinedscott-lee-johnson-was-born-in-1952-and-raised-in-connecticut/index.html</link>
+            <link>https://thegrid.ai/scott-lee-johnson-sculptor/scott-lee-johnson-was-born-in-1952-and-raised-in-connecticut/index.html</link>
             <guid isPermaLink="false">a89c5410-7226-4ae3-b4f3-43f82d223cb6</guid>
             <pubDate>Fri, 12 Feb 2016 19:02:08 GMT</pubDate>
         </item>
